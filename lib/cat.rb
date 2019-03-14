@@ -15,5 +15,3 @@ class Cat
   end
 
 end
-
-# cat1 = Cat.new("Crookshanks")

@@ -67,13 +67,3 @@ class Owner
   end
 
 end
-
-#
-# o1 = Owner.new("Hon")
-# o2 = Owner.new("Flo")
-#
-# o1.buy_fish("Bubbles")
-# o2.buy_cat("Crookshanks")
-#
-# binding.pry
-# puts "Hen li hai?"

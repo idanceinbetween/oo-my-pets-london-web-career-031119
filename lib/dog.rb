@@ -17,8 +17,3 @@ class Dog
   end
 
 end
-#
-# dog1 = Dog.new("Snuffles")
-#
-# binding.pry
-# puts "hen li hai meh"

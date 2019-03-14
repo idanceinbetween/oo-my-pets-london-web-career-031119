@@ -17,9 +17,3 @@ class Fish
   end
 
 end
-#
-# fish1 = Fish.new("Bubbles")
-# fish2 = Fish.new("Nemo")
-#
-# binding.pry
-# puts "hen li hai meh"
